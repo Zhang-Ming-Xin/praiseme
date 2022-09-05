@@ -1,0 +1,11 @@
+Package: praiseme
+Title: Deliver Praise to Someone (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Zhang", "Ming Xin", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: We all deserve a little encouragement sometime to keep us going (Plus Ultra!). This package aim to deliver a little praise whenever you need them. (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
